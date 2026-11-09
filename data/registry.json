@@ -60,6 +60,66 @@
    "niche": "Plumbing",
    "prompt": "Shield badge logo emblem for a generic plumbing service. Shield frame with a straight empty ribbon across the bottom. Inside: a pipe wrench and a bent water pipe crossed in an X, a single bold water droplet above the crossing. Colors: navy #13294B, water blue #2D9CDB, orange #F2994A, white.",
    "date": "2026-11-09"
+  },
+  {
+   "id": "logo-022",
+   "niche": "Barbershop",
+   "prompt": "Vintage-modern oval badge logo emblem for a generic barbershop. Oval frame with an empty banner across the top and a straight empty ribbon across the bottom. Inside: a straight razor and a pair of scissors crossed in an X, a classic striped barber pole standing upright behind them. Colors: navy #14213D, barber red #C1272D, cream #F4ECD8, gold #D4A24C.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-023",
+   "niche": "Brewery / craft beer",
+   "prompt": "Circular badge logo emblem for a generic craft brewery. Outer ring left empty for text. Inside: a foaming beer mug in bold front view flanked by two barley stalks curving up each side, a simple hop cone above. Colors: deep brown #3B2314, amber #E39B24, foam cream #F8EFD6, hop green #6B8E23.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-024",
+   "niche": "Camping / outdoor",
+   "prompt": "Sporty arch-top badge logo emblem for a generic camping outfitter. Arched top, flat bottom, empty ribbon across the bottom edge. Inside: a pitched tent with a campfire in front, three bold mountain peaks behind, a crescent moon above. Colors: forest green #1E4D3A, night blue #1B2A49, campfire orange #E8731A, cream #F5EEDC.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-025",
+   "niche": "Bakery",
+   "prompt": "Circular badge logo emblem for a generic artisan bakery. Outer ring left empty for text. Inside: a rolling pin and a wheat stalk crossed in an X over a round crusty loaf of bread with three diagonal scores. Colors: crust brown #7A4A21, golden #E2A93B, flour cream #FAF1DC, charcoal #2B2B2B.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-026",
+   "niche": "Roofing",
+   "prompt": "Shield badge logo emblem for a generic roofing company. Shield frame with a straight empty ribbon across the bottom. Inside: a simple house with a bold pitched shingle roof, a claw hammer and a ladder crossed in an X in front of the house. Colors: slate #2F3E4E, brick red #B23A2E, tan #D8C3A0, white.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-027",
+   "niche": "Gym / fitness",
+   "prompt": "Sporty hexagon badge logo emblem for a generic fitness gym. Bold hexagon frame with an empty banner across the top. Inside: a barbell with round plates in bold front view, a flexed arm silhouette rising behind it, two diagonal speed bars. Colors: black #121212, electric blue #1E88E5, lime #A4DE02, white.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-028",
+   "niche": "Pest control",
+   "prompt": "Circular badge logo emblem for a generic pest control service. Outer ring left empty for text. Inside: a bold magnifying glass over a simple stylized beetle, a house outline protected in the background, a small shield shape at the bottom. Colors: dark green #1F3D2B, safety yellow #F2C230, charcoal #232323, cream #F3EBD3.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-029",
+   "niche": "Pool cleaning",
+   "prompt": "Shield badge logo emblem for a generic pool cleaning service. Shield frame with a curved empty banner across the top. Inside: a long-handled pool net skimmer and a pool ladder crossed in an X over simple bold water ripples with a small sun above. Colors: deep blue #0D3B66, aqua #2EC4D6, sunny yellow #F4C542, white.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-030",
+   "niche": "Motorcycle / custom bikes",
+   "prompt": "Circular badge logo emblem for a generic custom motorcycle garage. Outer ring left empty for text. Inside: a classic cruiser motorcycle in clean side view, two crossed wrenches beneath it, a pair of simple wings spreading behind. Colors: black #141414, chrome grey #A8A8A8, flame red #D32F2F, cream #F2E9D8.",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "logo-031",
+   "niche": "Yoga / wellness",
+   "prompt": "Circular badge logo emblem for a generic yoga and wellness studio. Outer ring left empty for text. Inside: a person-free symbol of a lotus flower with seven bold petals rising over calm wave lines, a simple sun disc behind. Colors: plum #5B2A4E, coral #F28482, sage #A3B18A, cream #F6EFE2.",
+   "date": "2026-11-10"
   }
  ]
 }
