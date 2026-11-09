@@ -19,3 +19,10 @@ description: Ubah PNG hasil Google Flow (diupload Nathan) jadi EPS vector 5334x3
 - QC teknis lolos ≠ lolos review Adobe. Belum ada file dari pipeline ini yang lolos review (jangan klaim sebaliknya sampai ada bukti).
 - Node ±2.000–4.600 per badge; belum diketahui apakah reviewer menganggap wajar.
 - Latar artboard harus putih; tanpa latar, cairo memotong BoundingBox ke area bertinta.
+
+## Catatan dari C-Vector Day 1 (9 Nov 2026)
+- Flow memberi JPG 1024 px ("1K Original size"), bukan PNG; konversi ke PNG tidak menaikkan kualitas. Opsi 2K/4K Upscaled tidak dipakai.
+- Job override per badge ada di `data/jobs/logo-0XX.json` (colors=8, speckle=8, posisi teks placeholder). Salin ke `inbox/` untuk render ulang persis.
+- Teks placeholder dipasang hanya di ribbon lurus dan cincin lebar; ribbon melengkung (017) dan cincin tipis (020) dibiarkan tanpa teks.
+- Cek visual zoom wajib: teks di band melengkung sering menyentuh garis tepi; geser baseline lalu render ulang.
+- Upload ke portal Adobe lewat sesi Remote Control di Chrome Nathan: pastikan file dikirim sebagai `application/postscript` (tipe `octet-stream` ditolak "invalid file type"). Sesi berhenti sebelum "Submit for review"; Nathan yang konfirmasi.

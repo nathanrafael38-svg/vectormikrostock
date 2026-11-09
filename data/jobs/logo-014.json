@@ -1,0 +1,16 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR GARAGE",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "line",
+   "cx": 0.5,
+   "baseline": 0.6698,
+   "size": 0.085,
+   "tracking": 0.06,
+   "color": "#1E1E24"
+  }
+ ]
+}

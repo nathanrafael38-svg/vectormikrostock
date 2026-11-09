@@ -1,0 +1,28 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR COMPANY NAME",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_top",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.315,
+   "size": 0.05,
+   "tracking": 0.08,
+   "color": "#1F4D2B"
+  },
+  {
+   "text": "LAWN CARE",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_bottom",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.37,
+   "size": 0.045,
+   "tracking": 0.08,
+   "color": "#1F4D2B"
+  }
+ ]
+}

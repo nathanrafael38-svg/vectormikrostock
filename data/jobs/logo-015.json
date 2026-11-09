@@ -1,0 +1,16 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR BBQ NAME",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "line",
+   "cx": 0.5,
+   "baseline": 0.788,
+   "size": 0.08,
+   "tracking": 0.06,
+   "color": "#151515"
+  }
+ ]
+}

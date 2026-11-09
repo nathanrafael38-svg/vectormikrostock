@@ -1,0 +1,16 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR NAME",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "line",
+   "cx": 0.5,
+   "baseline": 0.8013,
+   "size": 0.075,
+   "tracking": 0.06,
+   "color": "#FFFFFF"
+  }
+ ]
+}
