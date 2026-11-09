@@ -1,0 +1,5 @@
+vtracer
+fonttools
+Pillow
+numpy
+openpyxl

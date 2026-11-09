@@ -1,0 +1,65 @@
+{
+ "suffix": "Flat vector illustration style, bold simple shapes, thick clean outlines, limited palette of solid flat colors only, large clean areas of color, no fine detail, no thin hairlines. Front view, perfectly symmetrical where possible, centered on a plain pure white background, square 1:1, generous white margin, nothing outside the badge. Leave every text band and ribbon completely EMPTY with no letters, no numbers, no words. No distressed texture, no grain, no halftone, no gradients, no shadows, no 3D, no mockup, no watermark, no real brand.",
+ "used": [
+  {
+   "id": "logo-012",
+   "niche": "Snow removal / winter home services",
+   "prompt": "Vintage-modern shield badge logo emblem for a generic snow removal and winter home services company. Shield silhouette with a curved empty banner across the top and a straight empty ribbon across the bottom. Inside the shield: a small house roof covered with a thick layer of snow, with a snow shovel and a simple six-point ice crystal crossed in front of it. Colors: deep navy #0E1C36, ice blue #7FC8E8, cyan #00A6CE, white.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-013",
+   "niche": "Lawn care / landscaping",
+   "prompt": "Circular badge logo emblem for a generic lawn care and landscaping service. Outer ring left empty for text. Inside: a push lawn mower in clean side view rolling over neat diagonal stripes of freshly cut grass, a half sun rising behind. Colors: forest green #1F4D2B, grass green #7CB342, cream #F2E8CF, warm sun yellow #E9A23B.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-014",
+   "niche": "Garage / auto repair",
+   "prompt": "Sporty hexagon badge logo emblem for a generic auto repair garage. Bold hexagon frame with a straight empty ribbon across the lower middle. Inside: a wrench and an engine piston crossed in an X in front of a simple gear. Colors: charcoal #1E1E24, racing red #C62828, off-white #F5F5F0, steel grey #9E9E9E.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-015",
+   "niche": "BBQ / smokehouse",
+   "prompt": "Arch-top badge logo emblem for a generic barbecue smokehouse. Badge with a rounded arched top, flat bottom, and an empty ribbon across the bottom edge. Inside: a grilling fork and a spatula crossed in an X above three simple bold flames. Colors: black #151515, flame orange #E8590C, amber #FFC94D, cream #F6EBDD.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-016",
+   "niche": "Fishing / outdoor",
+   "prompt": "Circular badge logo emblem for a generic fishing club. Outer ring left empty for text. Inside: a trout leaping out of a calm lake in a graceful arc, its tail slightly breaking out over the badge edge, two simple pine trees on the far shore. Colors: pine green #1B3A2F, lake blue #2E5E8C, tan #D9C49A, white.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-017",
+   "niche": "Boxing gym",
+   "prompt": "Sporty shield badge logo emblem for a generic boxing gym. Shield frame with an empty banner across the top and a small star on each side. Inside: a single boxing glove in bold front view with laces, two dynamic diagonal speed bars behind it. Colors: black #111111, red #D32F2F, gold #E0B44C, white.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-018",
+   "niche": "Coffee roaster",
+   "prompt": "Circular badge logo emblem for a generic coffee roastery. Outer ring left empty for text. Inside: a coffee scoop and a coffee plant branch with three beans crossed in an X, a small rising steam curl above. Colors: dark roast brown #3A2418, caramel #C47A3A, cream #F4E9D8, black #151515.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-019",
+   "niche": "Woodworking / carpentry",
+   "prompt": "Shield badge logo emblem for a generic woodworking and carpentry workshop. Shield frame with an empty banner across the top. Inside: a hand saw and a wood chisel crossed in an X in front of a round log cross-section with simple growth rings. Colors: walnut brown #5A3A22, warm oak #C68B59, cream #F3E7D3, charcoal #222222.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-020",
+   "niche": "Surf shop",
+   "prompt": "Circular badge logo emblem for a generic surf shop. Outer ring left empty for text. Inside: a single vertical surfboard standing in front of a large setting sun, a bold curling ocean wave at the bottom. Colors: deep ocean blue #0B3C5D, turquoise #1FB5AD, sunset orange #F28C28, sand #F6E3B4.",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "logo-021",
+   "niche": "Plumbing",
+   "prompt": "Shield badge logo emblem for a generic plumbing service. Shield frame with a straight empty ribbon across the bottom. Inside: a pipe wrench and a bent water pipe crossed in an X, a single bold water droplet above the crossing. Colors: navy #13294B, water blue #2D9CDB, orange #F2994A, white.",
+   "date": "2026-11-09"
+  }
+ ]
+}
