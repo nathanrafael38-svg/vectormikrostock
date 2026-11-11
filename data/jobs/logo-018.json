@@ -1,0 +1,28 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR COFFEE NAME",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_top",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.3,
+   "size": 0.055,
+   "tracking": 0.08,
+   "color": "#F4E9D8"
+  },
+  {
+   "text": "ROASTERY",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_bottom",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.375,
+   "size": 0.05,
+   "tracking": 0.08,
+   "color": "#F4E9D8"
+  }
+ ]
+}

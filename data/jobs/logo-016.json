@@ -1,0 +1,28 @@
+{
+ "colors": 8,
+ "speckle": 8,
+ "texts": [
+  {
+   "text": "YOUR COMPANY NAME",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_top",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.338,
+   "size": 0.044,
+   "tracking": 0.08,
+   "color": "#1B3A2F"
+  },
+  {
+   "text": "FISHING CLUB",
+   "font": "BebasNeue-Regular.ttf",
+   "kind": "arc_bottom",
+   "cx": 0.5,
+   "cy": 0.5,
+   "r": 0.385,
+   "size": 0.042,
+   "tracking": 0.08,
+   "color": "#1B3A2F"
+  }
+ ]
+}
