@@ -180,6 +180,66 @@
    "niche": "Locksmith / security",
    "prompt": "Shield badge logo emblem for a generic locksmith service. Shield frame with a straight empty ribbon across the bottom. Inside: a bold padlock with a classic key crossed in front of it in an X. Colors: dark navy #0B1F3A, brass gold #C9972B, steel grey #7D8794, white.",
    "date": "2026-11-11"
+  },
+  {
+   "id": "logo-042",
+   "niche": "Plant nursery / gardening",
+   "prompt": "Circular badge logo emblem for a generic plant nursery. Outer ring left empty for text. Inside: a watering can pouring water onto a young sprouting seedling in a clay pot, a garden trowel crossed behind the pot. Colors: leaf green #3E7C3A, terracotta #C76B3B, sky blue #5BA8D6, cream #F5EDDA.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-043",
+   "niche": "Bike shop / cycling",
+   "prompt": "Sporty shield badge logo emblem for a generic bicycle shop. Shield frame with an empty banner across the top. Inside: a classic road bicycle in clean side view, a bold gear cog behind the wheels, two diagonal speed bars. Colors: black #141414, bright orange #F26B21, silver #B5BCC7, white.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-044",
+   "niche": "Hot sauce / spicy food",
+   "prompt": "Arch-top badge logo emblem for a generic hot sauce brand. Arched top, flat bottom, empty ribbon across the bottom edge. Inside: a tall hot sauce bottle with three red chili peppers crossed in front, a single bold flame above. Colors: chili red #C1272D, black #151515, golden yellow #F2B632, cream #F5EBD7.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-045",
+   "niche": "Pizza restaurant",
+   "prompt": "Circular badge logo emblem for a generic pizzeria. Outer ring left empty for text. Inside: a whole pizza with melted cheese and pepperoni slices, a wooden peel and a pizza cutter crossed in an X behind it. Colors: tomato red #D1342C, crust gold #E5A93C, basil green #3F7D3B, cream #F7EAD0.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-046",
+   "niche": "Law firm / justice",
+   "prompt": "Shield badge logo emblem for a generic law office. Shield frame with a straight empty ribbon across the bottom. Inside: a classic balance scale of justice and a gavel crossed in front of two simple stone columns. Colors: deep navy #14213D, gold #C9A227, ivory #F4EEDD, grey #8A8F98.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-047",
+   "niche": "Horse riding / equestrian",
+   "prompt": "Circular badge logo emblem for a generic equestrian club. Outer ring left empty for text. Inside: a horse head in bold side profile with a flowing mane, a horseshoe curved below it, two simple wheat stalks at the sides. Colors: saddle brown #7B4B2A, forest green #2F5D3A, tan #D8BE8C, cream #F5EDDA.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-048",
+   "niche": "Dental clinic",
+   "prompt": "Shield badge logo emblem for a generic dental clinic. Shield frame with an empty banner across the top. Inside: a smiling bold tooth with a small sparkle, a toothbrush and a dental mirror crossed behind it. Colors: aqua #2BB3C0, navy #17324D, white, soft grey #D5DCE3.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-049",
+   "niche": "Sushi / Japanese restaurant",
+   "prompt": "Circular badge logo emblem for a generic Japanese restaurant. Outer ring left empty for text. Inside: a nigiri sushi and a pair of chopsticks, a bold rising sun disc behind, simple wave pattern at the bottom. Colors: charcoal #1F1F24, vermilion #D64933, sea blue #2A6F97, cream #F6EBDA.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-050",
+   "niche": "Diving / scuba",
+   "prompt": "Sporty hexagon badge logo emblem for a generic scuba diving school. Bold hexagon frame with a straight empty ribbon across the lower middle. Inside: a diving mask with a snorkel and a simple fish silhouette, rising air bubbles, two wave lines. Colors: deep ocean #0A3D62, turquoise #1ABC9C, coral #F2784B, white.",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "logo-051",
+   "niche": "Cleaning service",
+   "prompt": "Shield badge logo emblem for a generic home cleaning service. Shield frame with a curved empty banner across the top. Inside: a spray bottle and a mop crossed in an X, three sparkles and soap bubbles above. Colors: fresh blue #2B8AC9, lime #8CC63F, white, slate #34495E.",
+   "date": "2026-11-12"
   }
  ]
 }
